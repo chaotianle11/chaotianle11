@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 更新时间：13-10-2023
 
 
-# 莱芜黑山羊表型数据及组学数据
+# 一、莱芜黑山羊表型数据及组学数据  
+# [二、小尾寒羊表型数据及组学数据](https://github.com/chaotianle11/chaotianle.github.io)
 
 ## 1.发表论文：
 
