@@ -28,14 +28,16 @@ Here are some ideas to get you started:
 
 # 莱芜黑山羊表型数据及组学数据
 
-发表论文：
+## 1.发表论文：
 
 [[1]Zhao X, Xuan R, Wang A, Li Q, Zhao Y, Du S, Duan Q, Wang Y, Ji Z, Guo Y, Wang J, Chao T. High-Throughput Sequencing Reveals Transcriptome Signature of Early Liver Development in Goat Kids. Genes (Basel). 2022 May 6;13(5):833. doi: 10.3390/genes13050833](https://www.mdpi.com/2073-4425/13/5/833), [**pdf下载**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9141777/pdf/genes-13-00833.pdf)
 
-[[2]Zhao X, Ji Z, Xuan R, Wang A, Li Q, Zhao Y, Chao T, Wang J. Characterization of the microRNA Expression Profiles in the Goat Kid Liver. Front Genet. 2022 Jan 10;12:794157. doi: 10.3389/fgene.2021.794157. PMID: 35082837; PMCID: PMC8784682.](https://www.frontiersin.org/articles/10.3389/fgene.2021.794157/full), [**pdf下载**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8784682/pdf/fgene-12-794157.pdf)
+[[2]Zhao X, Ji Z, Xuan R, Wang A, Li Q, Zhao Y, Chao T, Wang J. Characterization of the microRNA Expression Profiles in the Goat Kid Liver. Front Genet. 2022 Jan 10;12:794157. doi: 10.3389/fgene.2021.794157. PMID: 35082837; PMCID: PMC8784682.](https://www.frontiersin.org/articles/10.3389/fgene.2021.794157/full), [**pdf下载**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8784682/pdf/fgene-12-794157.pdf)  
 
-|序号|日龄|羊号|体斜长（cm）|体高（cm）|管围（cm）|胸围（cm）|胸深（cm）|头重（g）|蹄重（g）|体重（kg）|胴体重（kg）|心重（g）|肝重（g）|脾重（g）|肺重（g）|肾重（g）|皮重（g）|瘤胃PH|瘤胃容积（ml）|瘤胃重量（g）|网胃重量（g）|瓣胃重量（g）|皱胃重量（g）|肝脏转录组数据|Clean data下载|
-| -------- | -------- |
+## 2.莱芜黑山羊表型数据及各样品对应组学数据下载
+
+序号|日龄|羊号|体斜长（cm）|体高（cm）|管围（cm）|胸围（cm）|胸深（cm）|头重（g）|蹄重（g）|体重（kg）|胴体重（kg）|心重（g）|肝重（g）|脾重（g）|肺重（g）|肾重（g）|皮重（g）|瘤胃PH|瘤胃容积（ml）|瘤胃重量（g）|网胃重量（g）|瓣胃重量（g）|皱胃重量（g）|肝脏转录组数据|Clean data下载
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 |1|一日龄|1901121|33|34|7|38|12|321.76|142.5|4.2|2150.92|35.56|39.69|9.89|70.38|36.6|739.23|6.44|20|16.56|4.53|5.96|32.07|[GSM5830333](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5830333)|[SRX13860852](https://www.ncbi.nlm.nih.gov/sra/SRX13860852[accn])|
 |2|一日龄|1901123|38.5|35|7|37|12|300.7|116.64|3.65|1831.25|31.67|122.67|9.51|72.99|37.27|613.8|6.95|15|8.57|7.59|2.04|28.82|[GSM5830334](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5830334)|[SRX13860853](https://www.ncbi.nlm.nih.gov/sra/SRX13860853[accn])|
 |3|一日龄|1901125|32|31|6|30.5|10.5|214.94|69.51|2.1|0.85|21.85|71.53|5.08|36.23|24.1|297.19|6.03|15|6.69|3.65|1.45|17.17|[GSM5830335](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5830335)|[SRX13860854](https://www.ncbi.nlm.nih.gov/sra/SRX13860854[accn])|
