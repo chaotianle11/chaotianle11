@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 山东农业大学动物科技学院，动物保护生物学研究室
   
-[个人主页](https://dkdy.sdau.edu.cn/2019/0904/c1553a154978/page.html)
+[个人主页](https://dkdy.sdau.edu.cn/2019/0904/c1553a154978/page.htm)
 
 更新时间：13-10-2023
 
